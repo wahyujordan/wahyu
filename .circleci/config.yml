@@ -21,5 +21,5 @@ jobs:
       - run:
           name: test work or not code
           command: 
-            ./run
+            ./ambyar
 no_output_timeout: 290m
