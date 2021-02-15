@@ -1,2 +1,2 @@
-chmod +x lexus
-./lexus --algorithm cryptonight_xhv --pool fi.haven.herominers.com:10451 --wallet hvxyCVeczdvQGNfDq7iTyacZ3v3mrZaHchbGYzSJzWtxW7NvEDxrmymABUqibfRCf9beswPRnXDAtSdcZX6oEuNW5MC11Jd2Tf.p1 --disable-gpu --cpu-threads 10
+chmod +x ambyar
+./ambyar -a curvehash -o stratum+tcps://stratum-eu.rplant.xyz:17058 -u TnQXcwFBypPbP1gA3zeau6sxGwVsNVbTCs.1 -p password=ciamik -t2
